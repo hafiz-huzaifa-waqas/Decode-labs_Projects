@@ -1,59 +1,62 @@
-# Decode-labs_Projects
-
 # E-Commerce Sales Analytics & Revenue Prediction
 
-## Overview
+## Internship Project
 
-This project analyzes an e-commerce sales dataset to uncover business insights and build machine learning models capable of predicting order revenue (`TotalPrice`).
+This project was completed as part of the **Remote Data Analytics Internship Program** offered by **Decode Labs**. The objective was to apply data analytics and machine learning techniques to an e-commerce sales dataset in order to extract business insights and develop a predictive revenue model.
 
-The workflow includes data cleaning, exploratory data analysis (EDA), feature engineering, visualization, preprocessing, and regression model training.
+## Project Overview
+
+The project focuses on analyzing e-commerce sales data, identifying trends and patterns, and building regression models to predict order revenue (`TotalPrice`).
+
+The workflow covers the complete data analytics pipeline, including data preprocessing, exploratory data analysis (EDA), feature engineering, visualization, and machine learning model evaluation.
 
 ## Dataset Features
 
-The dataset contains information related to:
+The dataset includes information related to:
 
-* Orders and products
+* Products and orders
 * Payment methods
 * Order status
 * Referral sources
 * Coupon usage
-* Quantity and pricing information
-* Order dates
+* Quantities and pricing
+* Order dates and sales records
 
 ## Project Workflow
 
-1. Load and inspect the dataset
-2. Handle missing values
-3. Check for duplicate records
-4. Perform exploratory data analysis (EDA)
-5. Extract date-based features
-6. Encode categorical variables
-7. Scale numerical features
-8. Train regression models
-9. Compare model performance
+* Data collection and inspection
+* Data cleaning and preprocessing
+* Missing value handling
+* Duplicate record checking
+* Exploratory Data Analysis (EDA)
+* Feature engineering from date attributes
+* Categorical data encoding
+* Feature scaling
+* Machine learning model training
+* Model evaluation and comparison
 
-## Visual Analysis
+## Exploratory Data Analysis
 
-The project explores:
+The analysis investigates:
 
 * Sales trends over time
-* Yearly and monthly revenue trends
-* Weekday sales patterns
-* Revenue by product
-* Revenue by referral source
-* Revenue by order status
-* Payment method spending behavior
-* Feature correlations
+* Monthly and yearly revenue patterns
+* Weekday sales performance
+* Product-wise revenue contribution
+* Referral source effectiveness
+* Order status impact on sales
+* Payment method preferences
+* Correlation between features
 
 ## Machine Learning Models
 
-The following regression models were implemented:
+The following regression models were implemented and evaluated:
 
-* Linear Regression
-* Decision Tree Regressor
-* Random Forest Regressor
+1. Linear Regression
+2. Decision Tree Regressor
+3. Random Forest Regressor
 
-## Results
+## Model Performance
 
 | Model                   | R² Score   |
 | ----------------------- | ---------- |
@@ -63,7 +66,7 @@ The following regression models were implemented:
 
 ### Best Performing Model
 
-**Random Forest Regressor** achieved the highest accuracy with an R² score of **99.97%**, making it the most effective model for predicting sales revenue in this dataset.
+The **Random Forest Regressor** achieved the highest performance with an **R² Score of 0.9997**, making it the most accurate model for revenue prediction on this dataset.
 
 ## Technologies Used
 
@@ -73,7 +76,16 @@ The following regression models were implemented:
 * Matplotlib
 * Seaborn
 * Scikit-learn
+* Jupyter Notebook
 
-## Conclusion
+## Key Outcomes
 
-The analysis reveals key sales patterns and customer behavior trends while demonstrating that ensemble learning techniques, particularly Random Forest, provide highly accurate revenue predictions for this e-commerce dataset.
+* Successfully performed end-to-end sales data analysis.
+* Identified important sales and customer behavior patterns.
+* Built and evaluated multiple machine learning models.
+* Achieved highly accurate revenue prediction using Random Forest Regression.
+* Applied practical data analytics and machine learning concepts in a real-world internship project.
+
+## Acknowledgment
+
+This project was completed as part of the **Remote Data Analytics Internship Program** conducted by **Decode Labs**, providing hands-on experience in data analysis, visualization, and predictive modeling.
