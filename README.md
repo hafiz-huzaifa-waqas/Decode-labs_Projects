@@ -78,7 +78,7 @@ The **Random Forest Regressor** achieved the highest performance with an **R² S
 
 * Successfully performed end-to-end sales data analysis.
 * Identified important sales and customer behavior patterns.
-* Built and evaluated multiple machine learning models.
+* Trained and evaluated multiple machine learning models.
 * Achieved highly accurate revenue prediction using Random Forest Regression.
-* Applied practical data analytics and machine learning concepts in a real-world internship project.
+
 
