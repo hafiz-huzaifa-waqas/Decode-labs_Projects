@@ -1,9 +1,5 @@
 # E-Commerce Sales Analytics & Revenue Prediction
 
-## Internship Project
-
-This project was completed as part of the **Remote Data Analytics Internship Program** offered by **Decode Labs**. The objective was to apply data analytics and machine learning techniques to an e-commerce sales dataset in order to extract business insights and develop a predictive revenue model.
-
 ## Project Overview
 
 The project focuses on analyzing e-commerce sales data, identifying trends and patterns, and building regression models to predict order revenue (`TotalPrice`).
@@ -86,6 +82,3 @@ The **Random Forest Regressor** achieved the highest performance with an **R² S
 * Achieved highly accurate revenue prediction using Random Forest Regression.
 * Applied practical data analytics and machine learning concepts in a real-world internship project.
 
-## Acknowledgment
-
-This project was completed as part of the **Remote Data Analytics Internship Program** conducted by **Decode Labs**, providing hands-on experience in data analysis, visualization, and predictive modeling.
