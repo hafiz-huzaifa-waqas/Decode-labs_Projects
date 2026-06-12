@@ -6,6 +6,10 @@ The project focuses on analyzing e-commerce sales data, identifying trends and p
 
 The workflow covers the complete data analytics pipeline, including data preprocessing, exploratory data analysis (EDA), feature engineering, visualization, and machine learning model evaluation.
 
+**Internship Acknowledgment**
+
+This project was completed as part of a Virtual Internship Program offered by DecodeLabs. The internship provided practical exposure to real-world data analytics and machine learning workflows, enabling the application of theoretical concepts to solve business-oriented problems using industry-standard tools and techniques.
+
 ## Dataset Features
 
 The dataset includes information related to:
